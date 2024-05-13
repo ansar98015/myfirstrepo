@@ -1,0 +1,7 @@
+.h1Line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: pink;
+    background-color: lightblue;
+}
